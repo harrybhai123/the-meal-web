@@ -57,16 +57,16 @@ let items = [
     MealThumb:
       "https://www.themealdb.com/images/media/meals/wrpwuu1511786491.jpg",
   },
-  {
-    id: 7,
-    item: "Eton Mess",
-    category: "Dessert",
-    area: "British",
-    instructions:
-      "Purée half the strawberries in a blender. Chop the remaining strawberries, reserving four for decoration.\r\nWhip the double cream until stiff peaks form, then fold in the strawberry purée and crushed meringue. Fold in the chopped strawberries and ginger cordial, if using.\r\nSpoon equal amounts of the mixture into four cold wine glasses. Serve garnished with the remaining strawberries and a sprig of mint.",
-    MealThumb:
-      "https://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg",
-  },
+//   {
+//     id: 7,
+//     item: "Eton Mess",
+//     category: "Dessert",
+//     area: "British",
+//     instructions:
+//       "Purée half the strawberries in a blender. Chop the remaining strawberries, reserving four for decoration.\r\nWhip the double cream until stiff peaks form, then fold in the strawberry purée and crushed meringue. Fold in the chopped strawberries and ginger cordial, if using.\r\nSpoon equal amounts of the mixture into four cold wine glasses. Serve garnished with the remaining strawberries and a sprig of mint.",
+//     MealThumb:
+//       "https://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg",
+//   },
   {
     id: 8,
     item: "Spotted Dick",
